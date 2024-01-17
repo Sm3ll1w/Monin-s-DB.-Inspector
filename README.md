@@ -35,7 +35,7 @@ Om Monin's DB. Inspector te gebruiken, moet je aan de volgende vereisten voldoen
     ```
 2. Clone de repository:
     ```bash
-    git clone https://github.com/Sm3ll1w/Monin-s-DB.-Scanner
+    git clone https://github.com/Sm3ll1w/Monin-s-DB.-Inspector.git
     cd Monin-s-DB.-Inspector/
     ```
 3. Installeer de vereiste bibliotheken:
